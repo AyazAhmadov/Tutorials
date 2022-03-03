@@ -1,6 +1,6 @@
-# Eto polucheniye infi
-name = input('Please neter your name:\n') # Poluchayu ima
-age = input('Please enter your age:\n') # Polucheniye vozrasta
-adress = input('Please neter your address:\n') # polucheniye addressa
+# Получаем ифу у пользователя
+name = input('Please neter your name:\n') # Получаем имя
+age = input('Please enter your age:\n') # Получаем возраст
+adress = input('Please neter your address:\n') # Получаем аддрес
 
 print(f'Hello, {name}. Your age is {age}. You live in {adress}')

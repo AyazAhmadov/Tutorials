@@ -1,4 +1,4 @@
-# Polucheniye chisel i operatora
+# Получение чисел и оператора
 x = input("Plese enter the first number:\n")
 operator = input('Please enter the operator:\n')
 y = input('Please enter the second number:\n')

@@ -1,13 +1,20 @@
-# Randomniye chisla
+# x > y
+# x >= y
+# x < y
+# x <= y
+# x == y
+# x != y
+
+# Рандомные числа
 x = 9
 y = 10
-# Sravneniye
+# Сравнение
 a = x >= y
 
-# Opat randomniye chisla
+# Рандомные числа
 s = 23
 p = 35
-# Sravneniye
+# Сравнение
 b = s >= p
 
 # AND
